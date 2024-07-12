@@ -1,0 +1,32 @@
+.bg-container{
+    background-color: rgb(219, 173, 219);
+    background-size: cover;
+    height: 100vh;
+}
+.heading-for-test{
+    font-size: 44px;
+    color: darkblue;
+    font-family: sans-serif;
+    font-style: bold;
+}
+.heading-for-subhead{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.image{
+    height: 80px;
+}
+.counter{
+    font-size: 30px;
+}
+.seconds{
+    font-size: 25px;
+    font-weight: 400;
+}
+.inner-container{
+    background-color: rgb(179, 37, 179);
+    border-radius: 20px;
+    padding: 20px;
+    width: auto;
+    height: auto;
+}
